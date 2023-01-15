@@ -1,0 +1,14 @@
+touch alpha.txt    creates a file named alpha
+touch readme.md creates a markdown file
+git add      adds a file
+git commit -m ""  commits a file
+git init     initiates a file
+git log   lists all commits in the directory
+git config name  configures a user name
+git config email configures an email address
+git push  pushes a file from system to remote
+git pull pulls a file from remote to system
+git add . adds all files created
+git remote add origin https://github.com/Cchioma/first-repo.git
+git remote checks if remote connection is done
+ git push -u origin master pushes filesfrom system to remote
